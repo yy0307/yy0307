@@ -1,3 +1,4 @@
+我只是个搬运工搬运工
 /*
 20210703 tom
 
@@ -33,7 +34,7 @@ www.tupinh.com
 
 [rewrite_local]
 #炎兔
-https://www.tupinh.com/index.php/api/user url script-request-body https://raw.githubusercontent.com/xl2101200/-/main/yt.js
+https://www.tupinh.com/index.php/api/user url script-request-body https://raw.githubusercontent.com/yy0307/yy0307/main/y_t.js
 
 [MITM]
 www.tupinh.com
