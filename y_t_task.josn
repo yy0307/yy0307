@@ -19,7 +19,7 @@ v2p好像不能直接获取ck  解决方法：使用锤子抓一下签到的包�
 /////////////////////////////////////////////////////////////////////////////
 撸了不一定有，不撸肯定没有！
 TG频道 https://t.me/tom_ww     
-Task地址：https://raw.githubusercontent.com/xl2101200/-/main/Tom_task.josn
+Task地址：https://raw.githubusercontent.com/yy0307/yy0307/main/y_t_task.josn
 boxjs地址 ： https://raw.githubusercontent.com/xl2101200/-/main/tom.box.json  
 /////////////////////////////////////////////////////////////////////////////
 CRON自行设置
